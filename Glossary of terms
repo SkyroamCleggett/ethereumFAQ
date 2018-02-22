@@ -1,20 +1,28 @@
 Blockchain - public ledger of transactions
-
 Cryptography
-
 Distributed system
-
 Protocol
-	Bitcoin
-
+Protocol, Bitcoin
 Encryption
-
 Keys
-
 Digital wallet
-
 Mining
-
 "Proof-Of-Work" algorithm
-
 Server
+Protocol
+API
+platform
+Framework
+Application
+Amazon S3
+DSN
+On-Chain
+Proof
+Hash
+Deposit
+Hashing
+Off-Chain: kind of like a bar tab/poker.
+Resolve-to-chain
+Node(s)
+Genesis Block
+On-Chain order books
